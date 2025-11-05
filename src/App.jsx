@@ -6,12 +6,12 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Release Flow Demo</h1>
-      <p>Version: 1.0.0</p>
+      <h1>🚀 Release Flow Demo</h1>
+      <p>Version: 0.1.1</p>
       
       <div>
         <button onClick={() => setCount(count + 1)}>
-          Count: {count}
+          Clicks: {count}
         </button>
       </div>
       
