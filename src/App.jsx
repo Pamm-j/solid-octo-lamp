@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Release Flow Demo</h1>
+      <h1>🚀 Release Flow Demo</h1>
       <p>Version: 1.0.0</p>
       
       <div>
