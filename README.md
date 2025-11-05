@@ -8,6 +8,7 @@ A React application demonstrating Git Flow branching strategy for release manage
 - Step-by-step workflow guide
 - Git command examples
 - Live demo of version changes
+- Simple and easy to customize
 
 ## Getting Started
 
